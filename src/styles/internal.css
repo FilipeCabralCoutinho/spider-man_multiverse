@@ -34,7 +34,7 @@
     width: 100%;
     background-color: #808080;
     padding-left: 130px;
-    position: relative;
+    
 }
 
 .s-wrapper .s-main-content__top{
@@ -54,19 +54,21 @@
 .s-wrapper .s-main-content .s-logo img{
     margin-top: 50px;
     margin-left: 0;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
+    max-width: 70%;
 }
 
 .s-wrapper .s-main-content__top .s-description{
     background-color: rgba(0, 0, 0, .7);
     max-width: 50%;
-    padding: 20px;
+    padding: 5px;
     border-radius: 10px;
 } 
 
 .s-wrapper .s-main-content__top .s-description .s-description__text p{
     color: #fff;
     line-height: 170%;
+    font-size: 0.75rem;
 }
 
 .s-wrapper .s-main-content__top .s-description .pills{
@@ -74,11 +76,26 @@
 }
 
 .s-wrapper .s-main-content .s-links{
-    padding: 20px;
+    padding: 10px;
     padding-left: 0;
 }
 
 .s-wrapper .s-main-content .s-links ul{
     display: flex;
     flex-direction: row;
+}
+
+.s-spiderman-01-01{
+    background-image: url(/assets/images/spiderman-tobey/movie-01/background.png);
+    background-size: cover;
+}
+
+.s-spiderman-01-02{
+    background-image: url(/assets/images/spiderman-tobey/movie-01/background.png);
+    background-size: cover;
+}
+
+.s-spiderman-01-03{
+    background-image: url(/assets/images/spiderman-tobey/movie-03/background.png);
+    background-size: cover;
 }

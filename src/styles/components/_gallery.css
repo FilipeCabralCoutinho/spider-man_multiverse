@@ -10,6 +10,7 @@
 
 .gallery ul li {
     margin-left: 25px;
+    align-content: flex-end;
 }
 
 .gallery ul li:first-child{
@@ -19,4 +20,5 @@
 .gallery ul li a img{
     border: solid 6px #fff;
     border-radius: 15px;
+    max-height: 70%;
 }
