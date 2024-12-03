@@ -1,6 +1,7 @@
 .gallery{
-    padding: 20px;
+    padding: 10px;
     padding-left: 0;
+    max-width: 100%;
 }
 
 .gallery ul{
@@ -20,5 +21,7 @@
 .gallery ul li a img{
     border: solid 6px #fff;
     border-radius: 15px;
-    max-height: 70%;
+    height: 150px;
+    width: 280px;
 }
+
