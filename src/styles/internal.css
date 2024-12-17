@@ -1,9 +1,9 @@
-@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/src/styles/reset.css);
-@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/src/styles/global.css);
-@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/src/styles/components/_navigator.css);
-@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/src/styles/components/_pills.css);
-@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/src/styles/components/_link-button.css);
-@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/src/styles/components/_gallery.css);
+@import url(/spider-man_multiverse/src/styles/reset.css);
+@import url(/spider-man_multiverse/src/styles/global.css);
+@import url(/spider-man_multiverse/src/styles/components/_navigator.css);
+@import url(/spider-man_multiverse/src/styles/components/_pills.css);
+@import url(/spider-man_multiverse/src/styles/components/_link-button.css);
+@import url(/spider-man_multiverse/src/styles/components/_gallery.css);
 
 .s-wrapper{
     display: flex;
@@ -109,41 +109,41 @@
 }
 
 .s-spiderman-01-01{
-    background-image: url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/assets/images/spiderman-tobey/movie-01/background.png);
+    background-image: url(/spider-man_multiverse/assets/images/spiderman-tobey/movie-01/background.png);
     background-size: cover;
 }
 
 .s-spiderman-01-02{
-    background-image: url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/assets/images/spiderman-tobey/movie-02/background.png);
+    background-image: url(/spider-man_multiverse/assets/images/spiderman-tobey/movie-02/background.png);
     background-size: cover;
 }
 
 .s-spiderman-01-03{
-    background-image: url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/assets/images/spiderman-tobey/movie-03/background.png);
+    background-image: url(/spider-man_multiverse/assets/images/spiderman-tobey/movie-03/background.png);
     background-size: cover;
 }
 
 .s-spiderman-02-01{
-    background-image: url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/assets/images/spiderman-andrew/movie-01/background.png);
+    background-image: url(/spider-man_multiverse/assets/images/spiderman-andrew/movie-01/background.png);
     background-size: cover;
 }
 
 .s-spiderman-02-02{
-    background-image: url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/assets/images/spiderman-andrew/movie-02/background.png);
+    background-image: url(/spider-man_multiverse/assets/images/spiderman-andrew/movie-02/background.png);
     background-size: cover;
 }
 
 .s-spiderman-03-01{
-    background-image: url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/assets/images/spiderman-tom/movie-01/background.png);
+    background-image: url(/spider-man_multiverse/assets/images/spiderman-tom/movie-01/background.png);
     background-size: cover;
 }
 
 .s-spiderman-03-02{
-    background-image: url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/assets/images/spiderman-tom/movie-02/background.png);
+    background-image: url(/spider-man_multiverse/assets/images/spiderman-tom/movie-02/background.png);
     background-size: cover;
 }
 
 .s-spiderman-03-03{
-    background-image: url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/assets/images/spiderman-tom/movie-03/background.png);
+    background-image: url(/spider-man_multiverse/assets/images/spiderman-tom/movie-03/background.png);
     background-size: cover;
 }
