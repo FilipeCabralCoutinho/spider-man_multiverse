@@ -1,9 +1,9 @@
-@import url(./spider-man_multiverse/src/styles/reset.css);
-@import url(./spider-man_multiverse/src/styles/components/_navigator.css);
-@import url(./spider-man_multiverse/src/styles/components/_pills.css);
-@import url(./spider-man_multiverse/src/styles/components/_link-button.css);
-@import url(./spider-man_multiverse/src/styles/components/_gallery.css);
-@import url(./spider-man_multiverse/src/styles/global.css);
+@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/blob/main/src/styles/reset.css);
+@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/blob/main/src/styles/components/_navigator.css);
+@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/blob/main/src/styles/components/_pills.css);
+@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/blob/main/src/styles/components/_link-button.css);
+@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/blob/main/src/styles/components/_gallery.css);
+@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/blob/main/src/styles/global.css);
 
 .s-wrapper{
     display: flex;
