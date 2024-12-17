@@ -1,9 +1,9 @@
-@import url(https://filipecabralcoutinho.github.io/spider-man_multiverse/src/styles/reset.css);
-@import url(https://filipecabralcoutinho.github.io/spider-man_multiverse/src/styles/global.css);
-@import url(https://filipecabralcoutinho.github.io/spider-man_multiverse/src/styles/components/_navigator.css);
-@import url(https://filipecabralcoutinho.github.io/spider-man_multiverse/src/styles/components/_pills.css);
-@import url(https://filipecabralcoutinho.github.io/spider-man_multiverse/src/styles/components/_link-button.css);
-@import url(https://filipecabralcoutinho.github.io/spider-man_multiverse/src/styles/components/_gallery.css);
+@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/src/styles/reset.css);
+@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/src/styles/global.css);
+@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/src/styles/components/_navigator.css);
+@import url(hhttps://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/src/styles/components/_pills.css);
+@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/src/styles/components/_link-button.css);
+@import url(https://github.com/FilipeCabralCoutinho/spider-man_multiverse/tree/main/src/styles/components/_gallery.css);
 
 .s-wrapper{
     display: flex;
